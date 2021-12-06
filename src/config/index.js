@@ -1,7 +1,7 @@
 const env = process.env.REACT_APP_ENV;
 
 let config = {
-    baseUrl: "http//localhost:3000/"
+    baseUrl: "http://localhost:3000/"
 }
 
 if (env) {
